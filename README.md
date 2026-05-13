@@ -2,6 +2,10 @@
 
 An AI/ML-based web application that automatically classifies resumes into suitable job categories using Natural Language Processing and Machine Learning.
 
+## 🚀 Live Demo
+
+🔗 https://resume-classification-system-7h7rkn5ldzmmjjbcc2dpml.streamlit.app/
+
 ## Description
 
 The Resume Classification System helps recruiters filter and shortlist resumes efficiently. It extracts resume text, processes it using NLP techniques, and predicts the most suitable job category.
